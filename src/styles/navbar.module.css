@@ -1,0 +1,23 @@
+.container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 240px;
+  padding-left: 240px;
+}
+.home {
+  width: 50%;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.container button {
+  background-color: black;
+  color: white;
+}

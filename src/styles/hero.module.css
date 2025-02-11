@@ -1,0 +1,44 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 240px;
+  padding-bottom: 0;
+  gap: 48px;
+  justify-content: space-between;
+}
+.herotext {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  flex-wrap: wrap;
+}
+
+.mypic img {
+  box-shadow: 20px 20px 10px grey;
+}
+.location {
+  display: flex;
+  gap: 2px;
+}
+.location img {
+  width: 20px;
+  height: 20px;
+}
+.project {
+  display: flex;
+  gap: 2px;
+}
+.project img {
+  width: 20px;
+  height: 20px;
+}
+.herroimg {
+  display: flex;
+  gap: 16px;
+}
+.herroimg img {
+  width: 20px;
+  height: 20px;
+}
