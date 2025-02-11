@@ -1,4 +1,5 @@
 import styles from "../styles/Skills.module.css";
+import { Graybutton } from "./Graybutton";
 const Skillimg = [
   { imgurl: "/img/icon-javscript.svg", name: "Javascript" },
   { imgurl: "/img/icon-typescript.svg", name: "typescript" },
@@ -21,7 +22,7 @@ export const Skill = () => {
   return (
     <div className={styles.container}>
       <div>
-        <p className="gray">Skills</p>
+        <Graybutton title="Skills" />
         <p>The skills, tools and technologies I am really good at:</p>
       </div>
       <div className={styles.skillsimg}>

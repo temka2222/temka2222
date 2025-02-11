@@ -1,0 +1,8 @@
+.gray {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  background-color: rgb(187, 183, 183);
+}
