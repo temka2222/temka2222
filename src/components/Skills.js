@@ -21,7 +21,7 @@ const Skillimg = [
 export const Skill = () => {
   return (
     <div className={styles.container}>
-      <div>
+      <div className={styles.skilltitle}>
         <Graybutton title="Skills" />
         <p>The skills, tools and technologies I am really good at:</p>
       </div>

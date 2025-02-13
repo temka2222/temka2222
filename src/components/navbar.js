@@ -3,7 +3,7 @@ export const Navbar = () => {
   return (
     <div className={styles.container}>
       <div>
-        <b>TOM</b>
+        <h2>TOM</h2>
       </div>
       <div className={styles.home}>
         <div>About</div>

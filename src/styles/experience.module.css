@@ -4,7 +4,9 @@
   justify-content: center;
   align-items: center;
   padding: 80px;
+  padding-top: 48px;
   gap: 48px;
+  background-color: #f9fafb;
 }
 .experiencetitle {
   width: 60%;
@@ -13,4 +15,5 @@
   gap: 16px;
   justify-content: center;
   align-items: center;
+  color: #4b5563;
 }

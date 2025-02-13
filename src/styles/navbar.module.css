@@ -16,6 +16,7 @@
   justify-content: center;
   align-items: center;
   gap: 24px;
+  color: #4b5563;
 }
 .container button {
   background-color: black;

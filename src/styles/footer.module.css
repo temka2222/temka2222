@@ -1,0 +1,42 @@
+.container {
+  padding-top: 96px;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+}
+.footertxt {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #4b5563;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  justify-content: center;
+  align-items: center;
+}
+.contact div {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+}
+.social {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  color: #4b5563;
+}
+.socialimg img {
+  width: 25px;
+  height: 25px;
+}
